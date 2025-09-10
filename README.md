@@ -15,7 +15,6 @@ I'm a passionate developer with a strong interest in Fullstack Development, Back
 
 -   🌟 **Pronouns:** He/Him
 -   🌱 **I’m currently learning:** C++, Spring Boot, and React to build more robust and scalable applications.
--   👯 **I’m looking to collaborate on:** A **College E-Helpdesk System** to enhance my skills and contribute to a meaningful project.
 -   ⚡ **Fun fact:** I love solving riddles and cracking aptitude problems. It helps me approach coding challenges with a logical and analytical mindset!
 -   📧 **How to reach me:** [sanjusanjay1918@gmail.com](mailto:sanjusanjay1918@gmail.com)
 
