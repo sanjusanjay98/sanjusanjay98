@@ -1,60 +1,62 @@
-# Hi there, I'm SANJAY R 👋
+# Hi there, I'm **Sanjay R** 👋
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/sanjusanjay98">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanjusanjay98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sanjusanjay98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Sanjay's GitHub Stats"/>
   </a>
   <a href="https://github.com/sanjusanjay98">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjusanjay98&layout=compact&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjusanjay98&layout=compact&theme=dracula" alt="Top Languages"/>
   </a>
 </p>
 
 ---
 
-I'm a passionate developer with a strong interest in Fullstack Development, Backend Systems, and modern Web Technologies. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+## About Me
 
--   🌟 **Pronouns:** He/Him
--   🌱 **I’m currently learning:** C++, Spring Boot, and React to build more robust and scalable applications.
--   ⚡ **Fun fact:** I love solving riddles and cracking aptitude problems. It helps me approach coding challenges with a logical and analytical mindset!
--   📧 **How to reach me:** [sanjusanjay1918@gmail.com](mailto:sanjusanjay1918@gmail.com)
+I'm a passionate developer with a strong interest in **Fullstack Development**, **Backend Systems**, and modern **Web Technologies**. I enjoy turning complex problems into simple, elegant, and intuitive solutions.
+
+- 🌟 **Pronouns:** He/Him  
+- 🌱 **Currently Learning:** C++, Spring Boot, React  
+- ⚡ **Fun Fact:** I love solving riddles and aptitude problems—they sharpen my logical and analytical skills for coding!  
+- 📧 **Reach Me:** [sanjusanjay1918@gmail.com](mailto:sanjusanjay1918@gmail.com)  
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a>
+    <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+    <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+    <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
 </p>
 
 ### 🌐 Web Development
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/spring_boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/> </a>
+    <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+    <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></a>
+    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></a>
+    <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/></a>
 </p>
 
 ### 🛢️ Databases
 <p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 </p>
 
 ### ⚙️ Tools & Platforms
 <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/> </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij"/> </a>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+    <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>
 </p>
 
 ---
 
 <p align="center">
-  Happy Coding!
+  Happy Coding! 🚀
 </p>
