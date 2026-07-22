@@ -125,14 +125,16 @@ Exploring privacy-preserving cloud computing using **Homomorphic Encryption** to
 
 **Focus:** Cloud Security • Cryptography • Data Privacy • Homomorphic Encryption
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjusanjay98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjusanjay98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sanjusanjay98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Sanjay's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjusanjay98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -145,7 +147,10 @@ Exploring privacy-preserving cloud computing using **Homomorphic Encryption** to
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjusanjay98&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjusanjay98&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ---
@@ -153,7 +158,7 @@ Exploring privacy-preserving cloud computing using **Homomorphic Encryption** to
 ## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjusanjay98/sanjusanjay98/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/sanjusanjay98/sanjusanjay98/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
