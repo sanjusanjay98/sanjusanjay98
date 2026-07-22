@@ -3,7 +3,7 @@
 ### 🚀 Backend Developer | Java & Spring Boot Enthusiast | Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Turning+ideas+into+real-world+products;Java+%7C+Spring+Boot+%7C+React;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Turning+ideas+into+real-world+products;Java+%7C+Spring+Boot;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -124,6 +124,8 @@ The system enables students to raise queries, submit complaints or requests, tra
 Exploring privacy-preserving cloud computing using **Homomorphic Encryption** to enable secure computation over encrypted data.
 
 **Focus:** Cloud Security • Cryptography • Data Privacy • Homomorphic Encryption
+
+---
 
 
 ## 🔥 GitHub Streak
