@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sanjay R
 
-### 🚀 Full-Stack Developer | Java & Spring Boot Enthusiast | Problem Solver
+### 🚀 Backend Developer | Java & Spring Boot Enthusiast | Problem Solver
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Turning+ideas+into+real-world+products;Java+%7C+Spring+Boot+%7C+React;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -21,7 +21,7 @@
 
 I'm a passionate developer who enjoys building **full-stack applications, backend systems, and modern web experiences**.
 
-I love taking complex problems, breaking them down into smaller pieces, and transforming them into **clean, scalable, and intuitive solutions**.
+I love taking complex problems, breaking them down into smaller pieces and transforming them into **clean, scalable, and intuitive solutions**.
 
 ```java
 public class Sanjay {
@@ -51,7 +51,7 @@ public class Sanjay {
 🔹 Develop modern and responsive interfaces using React
 🔹 Design and work with relational and NoSQL databases
 🔹 Deploy and manage web applications
-🔹 Solve programming, DSA, and logical problems
+🔹 Solve programming, DSA and logical problems
 🔹 Explore system design and scalable architectures
 🔹 Continuously learn new technologies and development practices
 
@@ -86,7 +86,7 @@ public class Sanjay {
 ### ☁️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,netlify,render,neon" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ public class Sanjay {
 
 A modern web development and digital solutions platform focused on building professional websites and web applications.
 
-**Tech:** React • Vite • Spring Boot • MySQL • SEO
+**Tech:** React • Vite • Spring Boot • MySQL 
 
 ---
 
@@ -109,13 +109,21 @@ A full-stack event management application with event creation, ticket booking, u
 
 ---
 
+### 🎓 College E-Help Desk System
+
+A centralized digital help desk platform designed to simplify communication between **students, faculty, and college administration**.
+
+The system enables students to raise queries, submit complaints or requests, track their status, and receive responses through a structured support workflow. It helps college administrators efficiently manage and resolve student issues from a single platform.
+
+**Tech:** Java • Servlet • JSP • MySQL • Hibernate
+
+---
+
 ### 🔐 Privacy-Preserving Cloud Computing
 
 Exploring privacy-preserving cloud computing using **Homomorphic Encryption** to enable secure computation over encrypted data.
 
 **Focus:** Cloud Security • Cryptography • Data Privacy • Homomorphic Encryption
-
----
 
 ## 📊 GitHub Stats
 
