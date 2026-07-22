@@ -97,7 +97,7 @@ public class Sanjay {
 
 A modern web development and digital solutions platform focused on building professional websites and web applications.
 
-**Tech:** React • Vite • Spring Boot • MySQL 
+**Tech:** React • Vite • Spring Boot • Postgre SQL • RestAPIs • Netlify • Render • Neon DB 
 
 ---
 
@@ -105,7 +105,7 @@ A modern web development and digital solutions platform focused on building prof
 
 A full-stack event management application with event creation, ticket booking, user authentication, and booking management.
 
-**Tech:** Java • Spring Boot • JSP • MySQL • Hibernate
+**Tech:** Java • Spring Boot • JSP • MySQL • Hibernate • RestAPIs
 
 ---
 
