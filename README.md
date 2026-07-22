@@ -62,31 +62,31 @@ public class Sanjay {
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript" />
 </p>
 
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### ☁️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,netlify" />
 </p>
 
 ---
